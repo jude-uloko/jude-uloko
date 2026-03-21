@@ -53,7 +53,3 @@ I am a dedicated Full Stack Developer with experience building dynamic web appli
 
 - Email: [myadonaitech@gmail.com](mailto:myadonaitech@gmail.com)
 - Open to collaboration and freelance opportunities
-
----
-
-Thanks for visiting — you're highly welcome! 🙌
