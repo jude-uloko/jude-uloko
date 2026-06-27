@@ -6,5 +6,5 @@
 
 ## 🔥 Activity
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ulokojude&them=tokyonight" alt="Ulokojude" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ulokojude&theme=tokyonight" alt="Ulokojude" />
 </div>
