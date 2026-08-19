@@ -6,7 +6,7 @@
 
 ---
 
-## 🙄 Activity
+## 🔥 Activity
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jude-uloko&theme=tokyonight" alt="jude-uloko" />
 </div>
