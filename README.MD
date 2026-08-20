@@ -4,7 +4,7 @@
 <br/>
 
 <!-- ═══════════════ ANIMATED TYPING ═══════════════ typing-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&random=false&width=750&height=60&lines=👨‍💻+Full+Stack+Developer;☕+Java+%2B+Spring+Boot+Specialist;⚛️+React+%26+TypeScript+Engineer;🚀+Microservices+Architect;🔐+REST+API+%26+💡+Code.+Learn.+Build.+Repeat.🔁)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&random=false&width=750&height=60&lines=👨‍💻+Full+Stack+Developer;☕+Java+%2B+Spring+Boot+Specialist;⚛️+React+%26+%26+💡+Code.+Learn.+Build.+Repeat.🔁)](https://git.io/typing-svg)
 
 </div>                                                                                                     
 
