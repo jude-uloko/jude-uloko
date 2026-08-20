@@ -1,8 +1,12 @@
-  <div align="center">
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,25:0a0a2e,50:16213e,75:0f3460,100:533483&height=250&section=header&text=Jude%20Uloko&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=⚡%20Full%20Stack%20Developer%20%7C%20Javascript%20BootStrap%20%7C%20React%20PHP%20SQL%20⚡&descAlignY=62&descAlign=50&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Hey+there!+I%27m+Jude+%F0%9F%91%8B;Frontend+%26+Backend+Engineer;You+Are+Welcome+%F0%9F%9A%80" alt="Typing SVG" />
+<br/>
 
-</div>                                                                                                       
+<!-- ═══════════════ ANIMATED TYPING ═══════════════ typing-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&random=false&width=750&height=60&lines=👨‍💻+Full+Stack+Developer;☕+Java+%2B+Spring+Boot+Specialist;⚛️+React+%26+TypeScript+Engineer;🚀+Microservices+Architect;🔐+REST+API+%26+JWT+Expert;💡+Code.+Learn.+Build.+Repeat.🔁)](https://git.io/typing-svg)
+
+</div>                                                                                                     
 
 | Stats |  Languages |
 | --------------- | --------------- |
