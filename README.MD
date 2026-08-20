@@ -21,13 +21,11 @@
 
 ---
 
-
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jude-uloko&theme=radical" alt="Top Languages" height="120" />
-
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jude-uloko&theme=radical&utcOffset=8" alt="Top Languages" height="120" />
 
 <div/>
+
 ---
 
 ## 📈 Contribution Activity
