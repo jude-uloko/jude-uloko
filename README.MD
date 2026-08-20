@@ -12,4 +12,12 @@
 </div>
 
 
+## 📈 Contribution Activity
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=jude-uloko&custom_title=Jude's%20Contribution%20Graph&bg_color=0d1117&color=00D4FF&line=ff6b9d&point=7c3aed&area=true&hide_border=false&border_color=533483&radius=8"/>
+</div>
+
+
+
       
