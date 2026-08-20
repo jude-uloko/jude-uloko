@@ -21,7 +21,7 @@
 
 ---
 
-## Top Languages
+## Commits
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jude-uloko&theme=radical&utcOffset=8" alt="Top Languages" height="120" width="95%" />
