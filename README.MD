@@ -29,7 +29,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6A0DAD&height=3" width="100%"/>
 
-## 📝 Commit Language
+## 📝 Language Commit
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jude-uloko&theme=github_dark)
 
