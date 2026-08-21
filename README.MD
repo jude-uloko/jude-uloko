@@ -21,16 +21,18 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6A0DAD&height=3" width="100%"/>
 
-## Commits
+## Commits Time
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jude-uloko&theme=radical&utcOffset=8" alt="Top Languages" height="120" width="95%" />
 
 <div/>
 
-## 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6A0DAD&height=3" width="100%"/>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=martian56&theme=github_dark)
+## Commit Language
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jude-uloko&theme=github_dark)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6A0DAD&height=3" width="100%"/>
 
