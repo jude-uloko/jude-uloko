@@ -4,9 +4,9 @@
 <br/>
 
 <!-- ═══════════════ ANIMATED TYPING ═══════════════ typing-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&random=false&width=750&height=60&lines=Full+Stack+Developer;CMD+and+PowerShell+lover;Code%2C+Build%2C+Debug)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&random=false&width=350&height=40&lines=Full+Stack+Developer;CMD+and+PowerShell+lover;Code%2C+Build%2C+Debug)](https://git.io/typing-svg)
 
-</div>                                                                                                     
+</div>
 
 | Stats |  Languages |
 | --------------- | --------------- |
@@ -25,8 +25,7 @@
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jude-uloko&theme=radical&utcOffset=8" alt="Top Languages" height="120" width="95%" />
-
-<div/>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6A0DAD&height=3" width="100%"/>
 
@@ -43,9 +42,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Open+to+collaboration;Let%27s+build+something+great+together!" alt="Footer Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=350&lines=Open+to+collaboration;Let%27s+build+something+great+together!" alt="Footer Typing" />
 </div>
 
-<a href="#"><img align="left" alt="Finish" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Finish.svg" /></a>
-
-      
+<a href="#"><img alt="Finish" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Finish.svg" /></a>
