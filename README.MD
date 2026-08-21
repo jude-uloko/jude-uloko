@@ -45,9 +45,7 @@
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=jude-uloko&custom_title=Jude's%20Contribution%20Graph&bg_color=0d1117&color=00D4FF&line=ff6b9d&point=7c3aed&area=true&hide_border=false&border_color=533483&radius=8"/>
 </div>
 
-<p align="center">
-  <img src="./metrics.svg" alt="Metrics">
-</p>
+
 
 <div align="center">
   <img height="180em" src="https://streak-stats.demolab.com?user=jude-uloko&theme=highcontrast&hide_border=false)](https://git.io/streak-stats)" />
