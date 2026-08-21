@@ -39,7 +39,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Open+to+collaborations;Let%27s+build+something+great+together!" alt="Footer Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Open+to+collaboration;Let%27s+build+something+great+together!" alt="Footer Typing" />
 </div>
 
 
