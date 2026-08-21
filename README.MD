@@ -35,6 +35,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6A0DAD&height=3" width="100%"/>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jude-uloko&theme=github_dark)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6A0DAD&height=3" width="100%"/>
+
 ## 📈 Contribution Activity
 
 <div align="center">
