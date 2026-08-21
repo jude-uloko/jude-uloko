@@ -36,13 +36,9 @@
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=jude-uloko&custom_title=Jude's%20Contribution%20Graph&bg_color=0d1117&color=00D4FF&line=ff6b9d&point=7c3aed&area=true&hide_border=false&border_color=533483&radius=8"/>
 </div>
 
-
----
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Open+to+collaboration;Let%27s+build+something+great+together!" alt="Footer Typing" />
 </div>
-
 
 <a href="#"><img align="left" alt="Finish" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Finish.svg" /></a>
       
