@@ -36,16 +36,6 @@
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=jude-uloko&custom_title=Jude's%20Contribution%20Graph&bg_color=0d1117&color=00D4FF&line=ff6b9d&point=7c3aed&area=true&hide_border=false&border_color=533483&radius=8"/>
 </div>
 
----
-
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer" width="100%" />
-</div>
-
-<img src="https://raw.githubusercontent.com/00200200/00200200/output/snake.svg" alt="Snake animation" />
-
-</div>
 
 ---
 
