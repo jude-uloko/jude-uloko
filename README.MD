@@ -38,6 +38,16 @@
 
 ---
 
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer" width="100%" />
+
+<img src="https://raw.githubusercontent.com/jude-uloko/jude-uloko/output/snake.svg" alt="Snake animation" />
+
+</div>
+
+---
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Open+to+collaboration;Let%27s+build+something+great+together!" alt="Footer Typing" />
 </div>
