@@ -41,8 +41,9 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer" width="100%" />
+</div>
 
-<img src="https://raw.githubusercontent.com/jude-uloko/jude-uloko/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/00200200/00200200/output/snake.svg" alt="Snake animation" />
 
 </div>
 
