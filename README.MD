@@ -46,11 +46,6 @@
 </div>
 
 
-
-<div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=jude-uloko&theme=highcontrast&hide_border=false)](https://git.io/streak-stats)" />
-</div>
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=350&lines=Open+to+collaboration;Let%27s+build+something+great+together!" alt="Footer Typing" />
 </div>
