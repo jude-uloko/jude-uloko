@@ -39,10 +39,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6A0DAD&height=3" width="100%"/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jude-uloko)](https://github.com/ryo-ma/github-profile-trophy)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6A0DAD&height=3" width="100%"/>
-
 ## 📈 Contribution Activity
 
 <div align="center">
