@@ -39,7 +39,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6A0DAD&height=3" width="100%"/>
 
-<img src="https://github-profile-trophy-unserori.vercel.app/?username=jude-uloko&theme=light&row=3&column=3" />
+<img src="https://github-profile-trophy-unserori.vercel.app/?username=jude-uloko&theme=onedark&row=3&column=3" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6A0DAD&height=3" width="100%"/>
 
