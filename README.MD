@@ -37,7 +37,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jude-uloko&theme=github_dark)
 
-<img src="https://github-profile-trophy-unserori.vercel.app/?username=jude-uloko&theme=dark" width="100" />
+<img src="https://github-profile-trophy-unserori.vercel.app/?username=jude-uloko&theme=light" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6A0DAD&height=3" width="100%"/>
 
