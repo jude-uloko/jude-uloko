@@ -37,9 +37,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jude-uloko&theme=github_dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jude-uloko&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-https://github-profile-trophy.vercel.app/?username=jude-uloko&theme=gruvbox
+https://github-profile-trophy-unserori.vercel.app/?username=jude-uloko&theme=dark
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6A0DAD&height=3" width="100%"/>
 
