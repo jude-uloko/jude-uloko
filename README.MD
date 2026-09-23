@@ -11,10 +11,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/jude-uloko/github-readme-stats/actions">
-    <img alt="Tests Passing" src="https://github.com/jude-uloko/github-readme-stats/workflows/Test/badge.svg" />
-  </a>
-  <a href="https://github.com/jude-uloko/github-readme-stats/graphs/contributors">
+ <a href="https://github.com/jude-uloko/github-readme-stats/graphs/contributors">
     <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/jude-uloko/github-readme-stats" />
   </a>
   <a href="https://codecov.io/gh/jude-uloko/github-readme-stats">
