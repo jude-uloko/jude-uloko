@@ -27,13 +27,12 @@
 
 ## 👋 About Me
 
-Hi, I'm Jude — a web developer working across JavaScript, React, and PHP, with a focus on building scalable, maintainable web apps. I enjoy [add: a sentence on what you're currently learning/working on, e.g. "diving deeper into performance optimization" or "exploring backend architecture with Node"].
+Hi, I'm Jude — a web developer working across JavaScript, React, and PHP, with a focus on building scalable, maintainable web apps. I enjoy diving deeper into system architecture.
 
-- 🔭 Currently working on: *[project name]*
-- 🌱 Currently learning: *[technology]*
-- 💬 Ask me about: *[your strongest topics]*
-- 📫 Reach me: *[email or contact method]*
-- ⚡ Fun fact: *[optional]*
+- 🔭 Currently working on: *Foliohub*
+- 🌱 Currently learning: *React*
+- 💬 Ask me about: *JavaScript*
+- 📫 Reach me: *above from my contacts*
 
 <p align="left">
   <a href="https://linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
