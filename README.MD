@@ -2,7 +2,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&&center=true&vCenter=true&width=500&height=40&lines=JavaScript+%7C+React+%7C+PHP;HTML5+%7C+CSS3+%7C+Tailwind;PowerShell+%7C+CMD+%7C+SQL;Building+Scalable+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&center=true&vCenter=true&width=500&height=40&lines=JavaScript+%7C+React+%7C+PHP;HTML5+%7C+CSS3+%7C+Tailwind;PowerShell+%7C+CMD+%7C+SQL;Building+Scalable+Web+Apps" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -21,6 +21,7 @@
   <a href="https://securityscorecards.dev/viewer/?uri=github.com/jude-uloko/github-readme-stats">
     <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/jude-uloko/github-readme-stats/badge" />
   </a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=jude-uloko&color=6A0DAD&style=flat-square&label=Profile+Views" />
 </p>
 
 </div>
@@ -86,18 +87,19 @@ Hi, I'm Jude — a web developer working across JavaScript, React, and PHP, with
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6A0DAD&height=3" width="100%"/>
 
+## 📈 Contribution Activity
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/jude-uloko/jude-uloko/output/activity-graph.svg" width="100%" />
 </div>
 
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6A0DAD&height=3" width="100%"/>
+
+## 🔥 Streak Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=jude-uloko&theme=dark&hide_border=true" />
 </div>
-
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6A0DAD&height=3" width="100%"/>
 
