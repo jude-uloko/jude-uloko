@@ -1,12 +1,15 @@
 This the readme code. Please optimize it.
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,25:0a0a2e,50:16213e,75:0f3460,100:533483&height=250&section=header&text=Jude%20Uloko&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=⚡%20Full%20Stack%20Dev%20%7C%20%20%7C%20Cmd%20%20PowerShell%20⚡&descAlignY=62&descAlign=50&descSize=18"/>
+<!-- Banner Header -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,25:0a0a2e,50:16213e,75:0f3460,100:533483&height=220&section=header&text=Jude%20Uloko&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=⚡%20Full%20Stack%20Developer%20%7C%20Scripting%20%26%20Automation%20⚡&descAlignY=60&descAlign=50&descSize=16"/>
 
-<br/>
+  <br/>
 
-<!-- ═══════════════ ANIMATED TYPING ═══════════════ typing-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&random=false&width=350&height=40&lines=HTML;CSS;JavaScript;Bootstrap;Tailwind;React;PHP;SQL;CMD;PowerShell)](https://git.io/typing-svg)
+  <!-- Typing Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=400&height=40&lines=JavaScript+%7C+React+%7C+PHP;HTML5+%7C+CSS3+%7C+Tailwind;PowerShell+%7C+CMD+%7C+SQL;Building+Scalable+Web+Apps" alt="Typing SVG" />
+  </a>
 
 </div>
 
