@@ -85,6 +85,11 @@ Hi, I'm Jude — a web developer working across JavaScript, React, and PHP, with
 </div>
 
 
+<div align="center">
+  <img src="./github-activity-graph.svg" width="100%" />
+</div>
+
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6A0DAD&height=3" width="100%"/>
 
