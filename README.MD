@@ -1,5 +1,3 @@
-This the readme code. Please optimize it.
-
 <div align="center">
 <!-- Banner Header -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,25:0a0a2e,50:16213e,75:0f3460,100:533483&height=220&section=header&text=Jude%20Uloko&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=⚡%20Full%20Stack%20Developer%20%7C%20Scripting%20%26%20Automation%20⚡&descAlignY=60&descAlign=50&descSize=16"/>
