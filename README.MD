@@ -84,6 +84,10 @@ Hi, I'm Jude — a web developer working across JavaScript, React, and PHP, with
 
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jude-uloko&theme=github-compact&hide_border=true" width="100%" />
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6A0DAD&height=3" width="100%"/>
 
 <div align="center">
