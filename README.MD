@@ -108,5 +108,5 @@ Hi, I'm Jude — a web developer working across JavaScript, React, and PHP, with
 </div>
 
 <div align="center">
-  Thanks for stopping by!
+  Thanks for stopping by! 
 </div>
