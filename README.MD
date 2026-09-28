@@ -30,7 +30,6 @@
 
 Hi, I'm Jude — a web developer working across JavaScript, React, and PHP, with a focus on building scalable, maintainable web apps. I enjoy diving deeper into system architecture.
 
-- 🔭 Currently working on: *Foliohub*
 - 🌱 Currently learning: *React*
 - 💬 Ask me about: *JavaScript*
 - 📫 Reach me: *above from my contacts*
