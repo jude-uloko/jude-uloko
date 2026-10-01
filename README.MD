@@ -102,7 +102,7 @@ Hi, I'm Jude — a web developer working across JavaScript, React, and PHP, with
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6A0DAD&height=3" width="100%"/>
 
-![GitHub contributions](https://github-contributions.vercel.app/api?username=jude-uloko&theme=github-dark)
+![GitHub contributions](https://github-contributions.vercel.app/api?username=jude-uloko&theme=dark)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6A0DAD&height=3" width="100%"/>
 
