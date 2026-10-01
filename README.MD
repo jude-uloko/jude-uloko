@@ -103,9 +103,6 @@ Hi, I'm Jude — a web developer working across JavaScript, React, and PHP, with
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6A0DAD&height=3" width="100%"/>
 
 **Commits / Issues / PRs breakdown**
-- `github-readme-stats` has a stats card:
-```md
-
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=jude-uloko&show_icons=true&theme=dark)
 
