@@ -102,12 +102,6 @@ Hi, I'm Jude — a web developer working across JavaScript, React, and PHP, with
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6A0DAD&height=3" width="100%"/>
 
-**Commits / Issues / PRs breakdown**
-
-![Stats](https://github-readme-stats.vercel.app/api?username=jude-uloko&show_icons=true&theme=dark)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6A0DAD&height=3" width="100%"/>
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=350&lines=Open+to+collaboration;Let%27s+build+something+great+together!" alt="Footer Typing" />
 </div>
