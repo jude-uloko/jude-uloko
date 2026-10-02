@@ -12,9 +12,6 @@
   <a href="https://codecov.io/gh/jude-uloko/github-readme-stats">
     <img alt="Tests Coverage" src="https://codecov.io/gh/jude-uloko/github-readme-stats/branch/master/graph/badge.svg" />
   </a>
-  <a href="https://github.com/jude-uloko/github-readme-stats/issues">
-    <img alt="Issues" src="https://img.shields.io/github/issues/jude-uloko/github-readme-stats?color=0088ff" />
-  </a>
   <a href="https://github.com/jude-uloko/github-readme-stats/pulls">
     <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/jude-uloko/github-readme-stats?color=0088ff" />
   </a>
