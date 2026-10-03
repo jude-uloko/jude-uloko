@@ -9,9 +9,6 @@
   <a href="https://github.com/jude-uloko/github-readme-stats/graphs/contributors">
     <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/jude-uloko/github-readme-stats" />
   </a>
-  <a href="https://securityscorecards.dev/viewer/?uri=github.com/jude-uloko/github-readme-stats">
-    <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/jude-uloko/github-readme-stats/badge" />
-  </a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=jude-uloko&color=6A0DAD&style=flat-square&label=Profile+Views" />
 </p>
 
