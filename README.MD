@@ -82,14 +82,6 @@ Hi, I'm Jude — a web developer working across JavaScript, React, and PHP, with
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6A0DAD&height=3" width="100%"/>
 
-## 🔥 Streak Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=jude-uloko&theme=dark&hide_border=true" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6A0DAD&height=3" width="100%"/>
-
 ![GitHub contribution grid](https://ghchart.rshah.org/409ba5/jude-uloko)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6A0DAD&height=3" width="100%"/>
