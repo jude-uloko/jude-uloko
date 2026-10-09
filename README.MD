@@ -50,7 +50,7 @@ Hi, I'm Jude — a web developer working across JavaScript, React, and PHP, with
 ## ⏲️ Productivity
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jude-uloko&theme=github_dark&utcOffset=1" width="48%" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jude-uloko&theme=radical&utcOffset=8" alt="Top Languages" height="120" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jude-uloko&theme=github_dark" width="48%" />
 </div>
 
