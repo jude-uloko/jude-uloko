@@ -1,18 +1,14 @@
-Hi, I'm Jude Uloko — Full-Stack & App Developer from Lagos 🇳🇬
+Hi, I'm Jude Uloko — Full-Stack & App Developer from Lagos, Nigeria 🇳🇬
 
-**Stack: Flutter • React • Python • Postgres**
+**Stack: NodeJS • React • Postgres**
 
 -  Mobile: Flutter
--  Web: React + JavaScript/TypeScript
--  Backend: Python
+-  Web: React + JavaScript
+-  Backend: NodeJS
 -  Database: Postgres
 
-Currently: Transitioning from React/PHP to Flutter + Python for app-focused products.
-
-🚀 Goal: Build apps at scale — aiming for Google / Microsoft / Meta.
+🚀 Goal: Build syatems at scale — aiming for Google / Microsoft / Meta.
 
 ### Focussing on:
-- Flutter App
-- Python Tools
-- React Web App  
-- Postgres Backend
+- React Web App
+- NodeJS 
