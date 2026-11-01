@@ -1,6 +1,6 @@
 Hi, I'm Jude Uloko — Full-Stack & App Developer from Lagos, Nigeria 🇳🇬
 
-**Stack: NodeJS • React • Postgres**
+**Stack: NodeJS • React**
 
 -  Mobile: Flutter
 -  Web: React + JavaScript
